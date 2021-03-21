@@ -1,1 +1,1 @@
-# barcode wih jango
+# barcode wih Django
