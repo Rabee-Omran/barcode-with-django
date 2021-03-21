@@ -1,1 +1,1 @@
-# barcode-with-django
+# barcode wih jango
